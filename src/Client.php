@@ -109,7 +109,7 @@ class Client
     {
         if(!empty($refreshToken)) {
             try {
-                $response = $this->client->post($this->authEndpoint, [
+                $response = $this->client->post($this->authTokenRefreshEndpoint, [
                     'json' => [
                         'refresh_token' => $refreshToken,
                         'expires_in' => 86400,
