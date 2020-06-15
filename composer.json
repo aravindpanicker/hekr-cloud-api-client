@@ -1,5 +1,5 @@
 {
-	"name": "kodia/hekr",
+	"name": "apanicker/hekr-cloud-api-client",
 	"description": "HEKR IOT API Client for PHP",
 	"type": "library",
 	"license": "MIT",
