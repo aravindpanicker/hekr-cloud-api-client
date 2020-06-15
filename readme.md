@@ -51,7 +51,7 @@ composer require aravindpanicker/hekr-cloud-api-client
 }
 ```
 
-#### Testing
+### Testing
 In order to use the test suite, make sure you update your hekr username and password in `tests/ClientTest.php`
 
 ```
