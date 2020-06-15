@@ -40,13 +40,13 @@ $snapshot = $client->setAccessToken($this->accessToken)
 #### With Composer
 
 ```
-composer require aravindpanicker/hekr-cloud-api-client
+composer require apanicker/hekr-cloud-api-client
 ```
 
 ```
 {
     "require": {
-        "aravindpanicker/hekr-cloud-api-client": "^1.0.0"
+        "apanicker/hekr-cloud-api-client": "^1.0.0"
     }
 }
 ```
