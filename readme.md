@@ -1,4 +1,4 @@
-#Hekr Client for PHP
+# Hekr Client for PHP
 
 A simple PHP API Client for [HEKR IoT Cloud](https://docs.hekr.me/v4/%E4%BA%91%E7%AB%AFAPI/%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C/).
 
@@ -35,9 +35,9 @@ $snapshot = $client->setAccessToken($this->accessToken)
 
 ```
 
-###Installation
+### Installation
 
-####With Composer
+#### With Composer
 
 ```
 composer require aravindpanicker/hekr-cloud-api-client
@@ -51,7 +51,7 @@ composer require aravindpanicker/hekr-cloud-api-client
 }
 ```
 
-####Testing
+#### Testing
 In order to use the test suite, make sure you update your hekr username and password in `tests/ClientTest.php`
 
 ```
